@@ -1,8 +1,6 @@
 # gearlist
 My Gear List 
 
-# Adam Vadala-Roth's Gear Collection
-
 ## 🎸 Guitars
 
 ### Electric Guitars
